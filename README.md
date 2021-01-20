@@ -48,7 +48,7 @@ cd work
 		# generates test-train script, also filters out bad images with mask pixel under ceratin threshold
 		test.test_train_script_generator(2200)
 		```
-2. utils.py
+2. lib/utils.py
     - including various camera related transformation functions and point cloud mapping functions
 
 ###### tags: `GAZEBO` `ROS` `IMR` `Documentation`
