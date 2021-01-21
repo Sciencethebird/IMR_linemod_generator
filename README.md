@@ -10,7 +10,7 @@ This project processes the raw data collected by the IMR_autocollector into Line
 
 
 		
-we use docker to run dataset generator
+I use docker to run dataset generator
  
 1. start docker
 ```sh
