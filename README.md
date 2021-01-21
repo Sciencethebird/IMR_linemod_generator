@@ -37,7 +37,7 @@ cd work
     - calculate object-to-camera extrinsic from camera coordinate and object coordinate
     - generate binary mask of each object from raw mask image
     - generate train.txt and test.txt
-    - here's the  "\_\_main\_\_"code 
+    - here's the  "\_\_main\_\_" code 
 		```python
 		test = linemod_dataset_generator( input_folder_name  = args.input_folder_name,
 		                                    output_folder_name = args.input_folder_name+"_output")
